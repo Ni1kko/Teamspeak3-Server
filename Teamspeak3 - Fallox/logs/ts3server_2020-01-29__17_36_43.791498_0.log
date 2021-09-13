@@ -1,0 +1,24 @@
+2020-01-29 17:36:43.791498|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.10.2 (2019-11-20 08:39:31)
+2020-01-29 17:36:43.791498|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2016 (17763) x64 (AMD or Intel) Binary: 64bit
+2020-01-29 17:36:43.791498|INFO    |ServerLibPriv |   |Using hardware aes
+2020-01-29 17:36:43.791498|INFO    |DatabaseQuery |   |dbPlugin name:    MariaDB plugin, version 3, (c)TeamSpeak Systems GmbH
+2020-01-29 17:36:43.791498|INFO    |DatabaseQuery |   |dbPlugin version: 2
+2020-01-29 17:36:44.702186|WARNING |Accounting    |   |Unable to open  /licensekey.dat, falling back to limited functionality
+2020-01-29 17:36:44.702186|INFO    |Accounting    |   |Licensing Information
+2020-01-29 17:36:44.703185|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-01-29 17:36:44.703185|INFO    |Accounting    |   |type              : No License
+2020-01-29 17:36:44.703185|INFO    |Accounting    |   |starting date     : Mon Jul  1 00:00:00 2019
+2020-01-29 17:36:44.703185|INFO    |Accounting    |   |ending date       : Wed Jul  1 00:00:00 2020
+2020-01-29 17:36:44.703185|INFO    |Accounting    |   |max virtualservers: 1
+2020-01-29 17:36:44.703185|INFO    |Accounting    |   |max slots         : 32
+2020-01-29 17:36:46.122156|INFO    |              |   |Puzzle precompute time: 1267
+2020-01-29 17:36:46.122156|INFO    |FileManager   |   |listening on 145.239.207.6:30033
+2020-01-29 17:36:47.763694|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-01-29 17:36:49.922250|ERROR   |VirtualSvrMgr |   |loading VirtualServer(2) failed to start, error: virtualserver limit reached
+2020-01-29 17:36:49.943044|INFO    |Query         |   |listening for query on 145.239.207.6:10011
+2020-01-29 17:36:49.964298|INFO    |Query         |   |listening for query ssh on 0.0.0.0:10022, [::]:10022
+2020-01-29 17:36:49.964298|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 79.79.45.188/32, 
+2020-01-29 18:22:11.803875|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2020-01-29 19:01:04.702647|ERROR   |DatabaseQuery |   |db_open() select distinct c.client_id, c.server_id from (clients c left outer jo error: Can't connect to MySQL server on '79.79.45.188' (0)
+2020-01-29 23:12:13.112721|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2020-01-30 04:32:14.630503|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001

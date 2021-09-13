@@ -1,0 +1,2 @@
+2019-12-28 03:31:25.281469|ERROR   |VirtualServerBase|1  |bind failed on 192.168.1.222:9987
+2019-12-28 03:31:25.281469|INFO    |VirtualServerBase|1  |stopped

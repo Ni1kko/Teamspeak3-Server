@@ -1,0 +1,6 @@
+2019-12-19 10:47:01.490316|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2019-12-19 10:47:01.492318|WARNING |VirtualServer |1  |--------------------------------------------------------
+2019-12-19 10:47:01.492318|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2019-12-19 10:47:01.492318|WARNING |VirtualServer |1  |token=HK0zgIzSeMrwguQaSlKd+zaWHZ7WO0S4TUAen9es
+2019-12-19 10:47:01.492318|WARNING |VirtualServer |1  |--------------------------------------------------------
+2019-12-19 22:45:10.922293|INFO    |VirtualServerBase|1  |stopped

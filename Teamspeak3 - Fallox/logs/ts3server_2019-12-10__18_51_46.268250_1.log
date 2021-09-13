@@ -1,0 +1,27 @@
+2019-12-10 18:51:49.916452|INFO    |VirtualServerBase|1  |listening on 192.168.1.222:9987
+2019-12-10 18:51:50.879320|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:56078
+2019-12-10 18:59:10.427480|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-11 00:11:39.806007|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:58730
+2019-12-11 00:11:45.454112|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-11 00:13:22.154261|INFO    |VirtualServer |1  |query client connected 'Unknown'(id:3) from 37.59.31.160:47502
+2019-12-11 00:13:22.217323|INFO    |VirtualServerBase|1  |query client disconnected 'Unknown'(id:3) reason 'reasonmsg=disconnecting'
+2019-12-11 05:47:59.406523|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:51959
+2019-12-11 05:54:14.896894|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-11 11:36:11.556190|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:51596
+2019-12-11 11:37:40.070017|INFO    |VirtualServerBase|1  |client disconnected 'ssss'(id:2) reason 'reasonmsg=leaving'
+2019-12-11 17:12:58.551410|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:65089
+2019-12-11 17:36:33.654577|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-12 12:53:39.150537|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:54466
+2019-12-12 13:46:27.307822|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-12 16:30:53.512767|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:51327
+2019-12-12 21:25:35.818297|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-12 22:20:52.732761|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:64191
+2019-12-12 22:22:08.499059|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-13 07:00:44.746905|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:49263
+2019-12-13 07:00:48.188998|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-13 22:28:38.358061|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:58973
+2019-12-13 22:28:44.405186|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-13 23:29:39.046848|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:53548
+2019-12-13 23:30:04.141603|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'
+2019-12-14 08:11:23.466999|INFO    |VirtualServerBase|1  |client connected 'alpнa'(id:2) using a myTeamSpeak ID from 192.168.1.1:61412
+2019-12-14 08:16:53.821036|INFO    |VirtualServerBase|1  |client disconnected 'alpнa'(id:2) reason 'reasonmsg=leaving'

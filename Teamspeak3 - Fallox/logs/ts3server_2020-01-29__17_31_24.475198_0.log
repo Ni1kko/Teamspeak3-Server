@@ -1,0 +1,17 @@
+2020-01-29 17:31:24.475198|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.10.2 (2019-11-20 08:39:31)
+2020-01-29 17:31:24.475198|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2016 (17763) x64 (AMD or Intel) Binary: 64bit
+2020-01-29 17:31:24.475198|INFO    |ServerLibPriv |   |Using hardware aes
+2020-01-29 17:31:24.475198|INFO    |DatabaseQuery |   |dbPlugin name:    MariaDB plugin, version 3, (c)TeamSpeak Systems GmbH
+2020-01-29 17:31:24.475198|INFO    |DatabaseQuery |   |dbPlugin version: 2
+2020-01-29 17:31:25.440877|WARNING |Accounting    |   |Unable to open  /licensekey.dat, falling back to limited functionality
+2020-01-29 17:31:25.456501|INFO    |Accounting    |   |Licensing Information
+2020-01-29 17:31:25.456501|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-01-29 17:31:25.456501|INFO    |Accounting    |   |type              : No License
+2020-01-29 17:31:25.456501|INFO    |Accounting    |   |starting date     : Mon Jul  1 00:00:00 2019
+2020-01-29 17:31:25.456501|INFO    |Accounting    |   |ending date       : Wed Jul  1 00:00:00 2020
+2020-01-29 17:31:25.456501|INFO    |Accounting    |   |max virtualservers: 1
+2020-01-29 17:31:25.456501|INFO    |Accounting    |   |max slots         : 32
+2020-01-29 17:31:25.628361|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-01-29 17:31:26.930005|INFO    |              |   |Puzzle precompute time: 1299
+2020-01-29 17:31:26.930005|ERROR   |FileManager   |   |bind failed on 192.168.1.222:30033; reason: The requested address is not valid in its context
+2020-01-29 17:31:26.930005|CRITICAL|VirtualSvrMgr |   |Could not start file manager 258 no network port available

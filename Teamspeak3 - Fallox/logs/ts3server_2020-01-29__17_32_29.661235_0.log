@@ -1,0 +1,20 @@
+2020-01-29 17:32:29.661235|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.10.2 (2019-11-20 08:39:31)
+2020-01-29 17:32:29.661235|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2016 (17763) x64 (AMD or Intel) Binary: 64bit
+2020-01-29 17:32:29.661235|INFO    |ServerLibPriv |   |Using hardware aes
+2020-01-29 17:32:29.661235|INFO    |DatabaseQuery |   |dbPlugin name:    MariaDB plugin, version 3, (c)TeamSpeak Systems GmbH
+2020-01-29 17:32:29.661235|INFO    |DatabaseQuery |   |dbPlugin version: 2
+2020-01-29 17:32:30.573833|WARNING |Accounting    |   |Unable to open  /licensekey.dat, falling back to limited functionality
+2020-01-29 17:32:30.573833|INFO    |Accounting    |   |Licensing Information
+2020-01-29 17:32:30.573833|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-01-29 17:32:30.573833|INFO    |Accounting    |   |type              : No License
+2020-01-29 17:32:30.573833|INFO    |Accounting    |   |starting date     : Mon Jul  1 00:00:00 2019
+2020-01-29 17:32:30.573833|INFO    |Accounting    |   |ending date       : Wed Jul  1 00:00:00 2020
+2020-01-29 17:32:30.573833|INFO    |Accounting    |   |max virtualservers: 1
+2020-01-29 17:32:30.573833|INFO    |Accounting    |   |max slots         : 32
+2020-01-29 17:32:30.678098|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-01-29 17:32:32.200976|INFO    |              |   |Puzzle precompute time: 1475
+2020-01-29 17:32:32.200976|INFO    |FileManager   |   |listening on 127.0.0.1:30033
+2020-01-29 17:32:32.629139|ERROR   |VirtualSvrMgr |   |loading VirtualServer(2) failed to start, error: virtualserver limit reached
+2020-01-29 17:32:32.644766|INFO    |Query         |   |listening for query on 127.0.0.1:10011
+2020-01-29 17:32:32.660389|INFO    |Query         |   |listening for query ssh on 0.0.0.0:10022, [::]:10022
+2020-01-29 17:32:32.660389|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 79.79.45.188/32, 

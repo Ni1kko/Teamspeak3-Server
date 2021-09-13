@@ -1,0 +1,22 @@
+2019-12-28 03:31:05.422453|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.10.2 (2019-11-20 08:39:31)
+2019-12-28 03:31:05.422453|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2016 (14393) x64 (AMD or Intel) Binary: 64bit
+2019-12-28 03:31:05.422453|INFO    |ServerLibPriv |   |Using hardware aes
+2019-12-28 03:31:05.422453|INFO    |DatabaseQuery |   |dbPlugin name:    MariaDB plugin, version 3, (c)TeamSpeak Systems GmbH
+2019-12-28 03:31:05.422453|INFO    |DatabaseQuery |   |dbPlugin version: 2
+2019-12-28 03:31:05.609999|WARNING |Accounting    |   |Unable to open  /licensekey.dat, falling back to limited functionality
+2019-12-28 03:31:05.609999|INFO    |Accounting    |   |Licensing Information
+2019-12-28 03:31:05.609999|INFO    |Accounting    |   |licensed to       : Anonymous
+2019-12-28 03:31:05.609999|INFO    |Accounting    |   |type              : No License
+2019-12-28 03:31:05.609999|INFO    |Accounting    |   |starting date     : Mon Jul  1 00:00:00 2019
+2019-12-28 03:31:05.609999|INFO    |Accounting    |   |ending date       : Wed Jul  1 00:00:00 2020
+2019-12-28 03:31:05.609999|INFO    |Accounting    |   |max virtualservers: 1
+2019-12-28 03:31:05.609999|INFO    |Accounting    |   |max slots         : 32
+2019-12-28 03:31:05.734964|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-12-28 03:31:06.125604|ERROR   |Accounting    |   |local accounting reports an already running instance, instance will shutdown
+2019-12-28 03:31:09.078464|INFO    |              |   |Puzzle precompute time: 3396
+2019-12-28 03:31:09.078464|INFO    |FileManager   |   |listening on 192.168.1.222:30033
+2019-12-28 03:31:09.176322|ERROR   |VirtualSvrMgr |   |loading VirtualServer(1) failed to start, error: port already in use
+2019-12-28 03:31:09.203015|ERROR   |VirtualSvrMgr |   |loading VirtualServer(2) failed to start, error: invalid group ID
+2019-12-28 03:31:09.203015|INFO    |Query         |   |listening for query on 192.168.1.222:10011
+2019-12-28 03:31:09.218644|INFO    |Query         |   |listening for query ssh on 0.0.0.0:10022, [::]:10022
+2019-12-28 03:31:09.218644|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 

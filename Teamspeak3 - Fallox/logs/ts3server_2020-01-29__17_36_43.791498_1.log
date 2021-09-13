@@ -1,0 +1,12 @@
+2020-01-29 17:36:49.846214|INFO    |VirtualServerBase|1  |listening on 145.239.207.6:9987
+2020-01-29 17:36:52.779356|INFO    |VirtualServerBase|1  |client connected 'Nikko Renolds'(id:2) using a myTeamSpeak ID from 79.79.45.188:52717
+2020-01-29 17:37:08.773679|INFO    |VirtualServerBase|1  |client disconnected 'Nikko Renolds'(id:2) reason 'reasonmsg=leaving'
+2020-01-29 17:37:08.976537|INFO    |VirtualServerBase|1  |client connected 'Nikko Renolds'(id:2) using a myTeamSpeak ID from 79.79.45.188:52717
+2020-01-29 17:53:33.490636|INFO    |VirtualServer |1  |client 'Nikko Renolds'(id:2) added privilege key for servergroup 'Server Admin'(id:6)
+2020-01-29 17:54:31.055928|INFO    |VirtualServer |1  |client 'Nikko Renolds'(id:2) added privilege key for servergroup 'Server Admin'(id:6)
+2020-01-29 18:18:35.887012|INFO    |VirtualServerBase|1  |client disconnected 'Nikko Renolds'(id:2) reason 'reasonmsg=leaving'
+2020-01-30 02:32:41.848698|INFO    |VirtualServerBase|1  |client connected 'Stephen Allen'(id:6) using a myTeamSpeak ID from 86.131.114.198:59561
+2020-01-30 02:32:59.365363|INFO    |VirtualServer |1  |client (id:6) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2020-01-30 02:32:59.365363|INFO    |VirtualServer |1  |client 'Stephen Allen'(id:6) used privilege key 'eM8hmUEn+7HCwPSZx8VWKTSKTVxUFJI+6TURoEXN' and was added to servergroup 'Server Admin'(id:6)
+2020-01-30 02:59:04.795097|INFO    |VirtualServerBase|1  |client disconnected 'Stephen Allen'(id:6) reason 'reasonmsg=leaving'
+2020-01-30 12:06:53.383828|INFO    |VirtualServerBase|1  |stopped
